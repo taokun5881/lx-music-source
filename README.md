@@ -92,17 +92,13 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/qdy/lat
 - [SixYin](https://www.sixyin.com/)
 - [Huibq/keep-alive](https://github.com/Huibq/keep-alive/)
 - [LX](https://www.lxmusic.cc/)
-- [ikun](https://github.com/lxmusics/lx-music-api-server)
+- [ikun](https://github.com/MeoProject/lx-music-api-server)
 
 ## 项目地址
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
 - [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
 - [any-listen](https://github.com/any-listen/any-listen)
-
-## 爱发电❤
-
-https://afdian.com/a/pdone
 
 ## Stargazers Over Time
 
